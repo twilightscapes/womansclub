@@ -1,0 +1,86 @@
+table.tableone
+{ text-align: left;
+vertical-align: top;
+font-family: arial;
+font-weight: normal;
+font-size: x-small;
+color: red;
+width: 375px;
+background-color: yellow;
+border: 1px #d79900 solid;
+border-collapse: collapse;
+border-spacing: 0px;}
+
+table.tabletwo
+{ text-align: left;
+vertical-align: top;
+font-family: arial;
+font-weight: normal;
+font-size: x-small;
+color: #336699;
+width: 375px;
+background-color: gray;
+border: none;
+border-collapse: collapse;
+border-spacing: 0px;}
+
+
+A.link1white {
+	color: white;
+	font-size : small;
+	font-family : Arial, Helvetica, sans-serif;
+	text-decoration : none;
+}
+A:HOVER.link1white {
+	color: yellow;
+	text-decoration : underline;
+}
+
+A.link2white {
+	color: white;
+	font-size : medium;
+	font-family : Arial, Helvetica, sans-serif;
+	text-decoration : none;
+}
+A:HOVER.link2white {
+	color: yellow;
+	text-decoration : underline;
+}
+
+A.link1green {
+	color: green;
+	font-size : x-small;
+	font-family : Arial, Helvetica, sans-serif;
+	text-decoration : none;
+}
+A:HOVER.link1green {
+	color: red;
+	text-decoration : none;
+}
+
+A.link2red {
+	color: red;
+	font-size : xx-small;
+	font-family : Arial, Helvetica, sans-serif;
+	text-decoration : none;
+}
+A:HOVER.link2red {
+	color: yellow;
+	text-decoration : underline;
+}
+
+
+
+A.link2blue {	
+	color: navy;
+	font-size : x-small;
+	font-family : Arial, Helvetica, sans-serif;
+	text-decoration : none;
+}
+A:HOVER.link2blue {
+    color: white;
+	text-decoration : underline;
+}
+
+.pumpkin { font-family: arial; font-size: 20; font-style: bold; color: orange }
+.redfont { font-family: arial; font-size: 50; font-style: bold; color: red }
